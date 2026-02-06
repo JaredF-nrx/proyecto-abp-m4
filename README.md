@@ -26,4 +26,4 @@ Cada archivo:
 
 ## Enlace a github
 
-- https://jaredf-nrx.github.io/proyecto-abp-m4/
+- https://github.com/JaredF-nrx/proyecto-abp-m4
